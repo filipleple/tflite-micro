@@ -145,7 +145,6 @@ endif
 
 CC_WARNINGS := \
   -Wsign-compare \
-  -Wdouble-promotion \
   -Wunused-variable \
   -Wunused-function \
   -Wswitch \
